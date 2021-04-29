@@ -1,0 +1,3 @@
+include ':CatonDetect'
+include ':app'
+rootProject.name = "Catondetection"
